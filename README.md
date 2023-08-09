@@ -22,7 +22,7 @@ This project is a simple product preview card component created for the Frontend
 
 ## Demo
 
-See the live demo of the project [here](https://your-demo-link.com).
+See the live demo of the project [here](https://iamdylanmj.github.io/product-preview-card/).
 
 ## Features
 
